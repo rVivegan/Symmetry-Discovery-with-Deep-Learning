@@ -4,7 +4,7 @@ This repository contains an in-depth mathematical presentation reviewing the pap
 
 ## Contents
 
-- `Symmetry_Discovery_Review.pptx`: The presentation slides (mathematical exposition, group theory, architecture, and experiments)
+- `Symmetry_Discovery_Review.pdf`: The presentation slides (mathematical exposition, group theory, architecture, and experiments)
 - `README.md`: Project overview and summary
 
 ## About the Paper
